@@ -1,202 +1,106 @@
-<!--
-HARDIK SEDANI — GitHub profile README
-Repository must be named exactly: hardiksedani
-Keep all assets in the /assets folder. Verify external demo URLs before publishing.
--->
+<!-- Profile repository: hardiksedani/hardiksedani. Upload assets/ alongside this file. -->
 
-<p align="center">
-  <img src="./assets/hardik-hero.svg" alt="Hey, I'm Hardik — AI, full-stack engineering, automation, and security" width="100%" />
+<p align="left">
+  <img src="./assets/hardik-neon-banner.png" width="100%" alt="Hey, I'm Hardik. Full Stack Developer • AI Builder • Cybersecurity Enthusiast. Building practical software products at the intersection of AI, Web, Automation and Security." />
 </p>
 
-<p align="center">
-  <a href="https://github.com/hardiksedani"><img src="https://img.shields.io/badge/GitHub-hardiksedani-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://in.linkedin.com/in/hardik-sedani-063a90355"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hardiksedani2610@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.raghuvirenterprises.in/"><img src="https://img.shields.io/badge/Live%20Product-Raghuvir%20Enterprises-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Raghuvir Enterprises live website" /></a>
+<p align="left">
+  <a href="https://github.com/hardiksedani?tab=repositories"><img src="./assets/neon/button-portfolio.svg" width="116" height="42" alt="Portfolio — explore my repositories" /></a>&nbsp;
+  <a href="https://in.linkedin.com/in/hardik-sedani-063a90355"><img src="./assets/neon/button-linkedin.svg" width="116" height="42" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:hardiksedani2610@gmail.com"><img src="./assets/neon/button-email.svg" width="100" height="42" alt="Email Hardik" /></a>&nbsp;
+  <a href="#featured-projects"><img src="./assets/neon/button-projects.svg" width="114" height="42" alt="Featured projects" /></a>
 </p>
 
-<p align="center">
-  <b>AI & Data Science @ K. J. Somaiya Institute of Technology</b><br />
-  <sub>Full-Stack Engineering &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Workflow Automation &nbsp;·&nbsp; Application Security</sub>
+<img src="./assets/neon/about-and-tech.svg" width="100%" alt="What I'm About: Engineering Student, Build Real Products, Security Focused, Always Learning. B.Tech AI and Data Science at K. J. Somaiya Institute of Technology. Tech I Use: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, Supabase, PostgreSQL, MySQL, n8n, Tailwind CSS, Git, GitHub, Vercel, Linux, Docker, Razorpay, APIs, Postman, Burp Suite, Kali Linux and VS Code. Text version below." />
+
+<a name="featured-projects"></a>
+<a href="https://github.com/hardiksedani?tab=repositories"><img src="./assets/neon/featured-heading.svg" width="100%" alt="Featured Projects — view all repositories" /></a>
+
+<p>
+  <a href="https://mahakumbhprojects.vercel.app/"><img src="./assets/neon/project-kumbhrakshak.png" width="49%" alt="KumbhRakshak — AI-assisted crowd monitoring, incident awareness and decision support for Mahakumbh. Open demo." /></a>
+  <a href="https://multiagentscursors.vercel.app/"><img src="./assets/neon/project-ai-business-os.png" width="49%" alt="AI Business OS — multi-agent business workflows for marketing, sales, HR and operations. Open demo." /></a>
 </p>
 
-<p align="center">
-  <a href="#-featured-builds">Featured builds</a> &nbsp;·&nbsp;
-  <a href="#-tech-stack">Tech stack</a> &nbsp;·&nbsp;
-  <a href="#-experience--community">Experience</a> &nbsp;·&nbsp;
-  <a href="#-currently-exploring">Currently exploring</a>
+<p>
+  <a href="https://www.raghuvirenterprises.in/"><img src="./assets/neon/project-raghuvir-enterprises.png" width="49%" alt="Raghuvir Enterprises — wholesale e-commerce with Razorpay integration. Open website." /></a>
+  <a href="https://github.com/hardiksedani/CYBERSHEILD"><img src="./assets/neon/project-cybershield.png" width="49%" alt="CyberShield — browser-assisted web security testing and AI-supported vulnerability analysis. Open source code." /></a>
 </p>
 
----
+<img src="./assets/neon/other-projects.svg" width="100%" alt="Other Notable Projects: SafeURL Scanner, Lumen AI Website Builder, Canteen Management System, WhatsApp Automation." />
 
-## ✦ `01` — WHAT I'M ABOUT
+<p align="center">
+  <a href="https://websitebuilder.neuraxine.com/">Lumen ↗</a> &nbsp; · &nbsp;
+  <a href="https://github.com/hardiksedani/CANTEEN_MANAGEMENT_SYSTEM">Canteen Management ↗</a> &nbsp; · &nbsp;
+  <a href="https://whatsappautomations.vercel.app/">WhatsApp Automation ↗</a>
+</p>
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>🎓 Engineer in progress</h3>
-      B.Tech in Artificial Intelligence & Data Science at K. J. Somaiya Institute of Technology.
-    </td>
-    <td width="25%" valign="top">
-      <h3>⌘ Product builder</h3>
-      I build end-to-end apps across the UI, backend, data layer, APIs, and deployment.
-    </td>
-    <td width="25%" valign="top">
-      <h3>◈ AI & automation</h3>
-      I explore AI agents, API integrations, event-driven workflows, and human-in-the-loop automation.
-    </td>
-    <td width="25%" valign="top">
-      <h3>⛨ Security-minded</h3>
-      I am building skills in web security testing, secure backend patterns, and ethical penetration testing.
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/hardiksedani?tab=overview"><img src="./assets/neon/github-stats.svg" width="100%" alt="Public GitHub statistics and contribution calendar for hardiksedani. Dated snapshot; click to see current activity on GitHub." /></a>
 
-> **My approach:** Build for a real use case. Make the system understandable. Test the important paths. Document what is live and what is still in progress.
-
-## 🚀 FEATURED BUILDS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://mahakumbhprojects.vercel.app/"><img src="./assets/projects/kumbhrakshak.svg" alt="KumbhRakshak project illustration" width="100%" /></a>
-      <h3>🛰️ KumbhRakshak</h3>
-      <b>AI-assisted crowd safety & decision support</b>
-      <p>A Mahakumbh-focused concept for bringing crowd signals, incident awareness, and operator decision support into one place. For hackathon demos, keep a clear distinction between live data and simulated inputs.</p>
-      <p><code>AI</code> <code>Computer Vision</code> <code>IoT concepts</code> <code>Web</code></p>
-      <p><a href="https://mahakumbhprojects.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open KumbhRakshak demo" /></a></p>
-      <sub>Source repository: publish or confirm the public repository URL before adding a source-code button.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://multiagentscursors.vercel.app/"><img src="./assets/projects/ai-business-os.svg" alt="AI Business OS project illustration" width="100%" /></a>
-      <h3>🧠 AI Business OS</h3>
-      <b>Multi-agent business workflow platform</b>
-      <p>A business operating-system concept where a CEO agent coordinates specialist agents across marketing, sales, finance, development, support, HR, and operations.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>n8n</code></p>
-      <p><a href="https://multiagentscursors.vercel.app/"><img src="https://img.shields.io/badge/Project%20Demo-Open-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open AI Business OS demo" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.raghuvirenterprises.in/"><img src="./assets/projects/raghuvir-enterprises.svg" alt="Raghuvir Enterprises project illustration" width="100%" /></a>
-      <h3>🛒 Raghuvir Enterprises</h3>
-      <b>Live e-commerce product for a wholesale business</b>
-      <p>A deployed product catalogue and ordering experience for a family-run wholesale business, with product discovery, cart, account flows, and payment integration.</p>
-      <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>Razorpay</code></p>
-      <p><a href="https://www.raghuvirenterprises.in/"><img src="https://img.shields.io/badge/Live%20Website-Visit-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Raghuvir Enterprises" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hardiksedani/CYBERSHEILD"><img src="./assets/projects/cybershield.svg" alt="CyberShield project illustration" width="100%" /></a>
-      <h3>🛡️ CyberShield</h3>
-      <b>Web security testing & AI-assisted analysis</b>
-      <p>A desktop security tool exploring browser-assisted vulnerability discovery, security-header checks, and AI-supported explanations and remediation guidance.</p>
-      <p><code>Electron</code> <code>React</code> <code>Puppeteer</code> <code>Gemini</code></p>
-      <p><a href="https://github.com/hardiksedani/CYBERSHEILD"><img src="https://img.shields.io/badge/Source%20Code-Inspect-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Inspect CyberShield source" /></a></p>
-    </td>
-  </tr>
-</table>
-
-## 🧩 MORE BUILDS & EXPERIMENTS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◉ Lumen — AI Website Builder</h3>
-      Prompt-driven website generation, iteration, and code-export workflows.
-      <br /><br />
-      <a href="https://websitebuilder.neuraxine.com/">Open demo ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>◉ WhatsApp Automation Platform</h3>
-      Business messaging workflows connected through webhooks, n8n, and Supabase.
-      <br /><br />
-      <a href="https://whatsappautomations.vercel.app/">Open demo ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◉ LeadFinder</h3>
-      Lead research / prospect workflow project. Review the repository for the current feature set.
-      <br /><br />
-      <a href="https://github.com/hardiksedani/lead-scrapperrr">Inspect repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>◉ Canteen Management System</h3>
-      Role-based canteen ordering with student, staff, and manager workflows; Flask REST API and MySQL.
-      <br /><br />
-      <a href="https://github.com/hardiksedani/CANTEEN_MANAGEMENT_SYSTEM">Inspect repository ↗</a>
-    </td>
-  </tr>
-</table>
+<img src="./assets/neon/footer.svg" width="100%" alt="Currently Exploring: advanced system design, AI agents and automation, ethical hacking and web application security, IoT and cloud integration. My Mindset: Build useful things. Learn deeply. Secure what you build. Improve continuously." />
 
 <details>
-  <summary><b>More projects I am exploring</b></summary>
-  <br />
+<summary>Profile text, project links &amp; experience</summary>
 
-  - **SafeURL Scanner** — website URL safety analysis using VirusTotal and related security feeds. Add the source link once the intended public repository is confirmed.
-  - **Smart Health Pet Monitoring System** — in progress: exploring motion sensing, GNSS/cellular connectivity, and cloud data ingestion. This is a learning/build-in-progress project, not claimed as production-ready.
-  - **Automobile Inventory Management System** — repository available on my profile; add a detailed, project-specific README and screenshots before featuring it prominently.
-</details>
+### Hey, I'm Hardik 👋
 
-## 🧰 TECH STACK
+Full Stack Developer • AI Builder • Cybersecurity Enthusiast
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,nodejs,tailwind,html,css,postgres,supabase,mysql,git,github,linux&theme=dark&perline=9" alt="Languages, frameworks, databases, and tools" />
-</p>
+Building practical software products at the intersection of AI, Web, Automation and Security.
 
-<table>
-  <tr><td><b>Languages</b></td><td>Python · Java · C · JavaScript · TypeScript · SQL</td></tr>
-  <tr><td><b>Frontend</b></td><td>React · Next.js · HTML · CSS · Tailwind CSS</td></tr>
-  <tr><td><b>Backend & data</b></td><td>Node.js · Flask · REST APIs · PostgreSQL · Supabase · MySQL</td></tr>
-  <tr><td><b>AI & automation</b></td><td>OpenAI API · Google Gemini API · n8n · Webhooks · Multi-agent systems</td></tr>
-  <tr><td><b>Security & systems</b></td><td>Web security testing · Authentication · Row Level Security · Computer networks · Linux</td></tr>
-  <tr><td><b>Build & deploy</b></td><td>Git · GitHub · VS Code · Vercel</td></tr>
-</table>
+### What I'm About
 
-## 💼 EXPERIENCE & COMMUNITY
+- **Engineering Student:** B.Tech in Artificial Intelligence & Data Science at K. J. Somaiya Institute of Technology.
+- **Build Real Products:** Full-stack applications, APIs, data layers, and AI-powered systems.
+- **Security Focused:** Exploring ethical hacking, application security, secure backend patterns, and vulnerability analysis.
+- **Always Learning:** System design, DevOps, backend internals, and real-world problem solving.
 
-**AI & Automation Intern — Neuraxine AI** · *June–August 2026*
+### Tech I Use
+
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Node.js · Python · Supabase · PostgreSQL · MySQL · n8n · Tailwind CSS · Git · GitHub · Vercel · Linux · Docker · Razorpay · APIs · Postman · Burp Suite · Kali Linux · VS Code.
+
+Also exploring Java, C, Flask, SQL, OpenAI and Gemini APIs, webhooks, authentication, Row Level Security, and computer networks. Security tools are part of my learning stack.
+
+### Featured Projects
+
+Project thumbnails are decorative artwork; follow the links to see the actual applications.
+
+- **[KumbhRakshak](https://mahakumbhprojects.vercel.app/)** — AI-assisted crowd safety and decision support for Mahakumbh. A concept bringing crowd signals, incident awareness, and operator decision support together; demos may include simulated inputs.
+- **[AI Business OS](https://multiagentscursors.vercel.app/)** — A business operating-system concept where a CEO agent coordinates specialist agents across marketing, sales, finance, development, support, HR, and operations.
+- **[Raghuvir Enterprises](https://www.raghuvirenterprises.in/)** — Product catalogue and ordering experience for a family-run wholesale business, with product discovery, cart, account flows, and payment integration.
+- **[CyberShield — source code](https://github.com/hardiksedani/CYBERSHEILD)** — Desktop security tool exploring browser-assisted vulnerability discovery, security-header checks, and AI-supported explanations and remediation guidance. Built with Electron, React, Puppeteer, and Gemini.
+
+### Other Projects
+
+- **SafeURL Scanner** — URL safety analysis using VirusTotal and related security feeds.
+- **[Lumen — AI Website Builder](https://websitebuilder.neuraxine.com/)** — Prompt-driven website generation, iteration, and code-export workflows.
+- **[Canteen Management System](https://github.com/hardiksedani/CANTEEN_MANAGEMENT_SYSTEM)** — Role-based ordering with student, staff, and manager workflows; Flask REST API and MySQL.
+- **[WhatsApp Automation](https://whatsappautomations.vercel.app/)** — Business messaging workflows connected through webhooks, n8n, and Supabase.
+- **[LeadFinder](https://github.com/hardiksedani/lead-scrapperrr)** — Lead research and prospect workflow project.
+- **Smart Health Pet Monitoring System** — In progress: motion sensing, GNSS/cellular connectivity, and cloud data ingestion.
+- **Automobile Inventory Management System** — An additional project on my GitHub profile.
+
+### Experience & Community
+
+**AI & Automation Intern — Neuraxine AI** · June–August 2026
 
 - Developed full-stack applications with Next.js, React, Node.js, Supabase, and PostgreSQL.
 - Worked with authentication, Row Level Security, AI API integration, n8n, and webhook-driven automation.
 - Deployed web applications with Vercel and connected application workflows across services.
 
-**Marketing Head — S4DS, K. J. Somaiya Institute of Technology** · *July 2026–present*
+**Marketing Head — S4DS, K. J. Somaiya Institute of Technology** · July 2026–present
 
 - Contribute to hackathon marketing, outreach, promotional content, and student technology events.
 - Helped promote a 36-hour hackathon and participate in data-science community activities.
 
-## 📊 GITHUB ACTIVITY
+### Currently Exploring
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hardiksedani&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics for hardiksedani" />
-  <img height="165" src="https://streak-stats.demolab.com?user=hardiksedani&hide_border=true&theme=transparent&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=c9d1d9&dates=8b949e&background=0d1117" alt="GitHub contribution streak" />
-</p>
+- Advanced system design and scalable architectures.
+- AI agents and automation workflows.
+- Ethical hacking and web application security.
+- IoT systems and cloud integration.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardiksedani&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=22d3ee&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
+**Build useful things. Learn deeply. Secure what you build. Improve continuously.**
 
-<sub>If a third-party stats image is temporarily unavailable, the profile still works; GitHub's native contribution calendar is shown on the profile page below the README.</sub>
+[LinkedIn](https://in.linkedin.com/in/hardik-sedani-063a90355) · [Email](mailto:hardiksedani2610@gmail.com) · [All repositories](https://github.com/hardiksedani?tab=repositories)
 
-## 🔭 CURRENTLY EXPLORING
-
-- [ ] **System design:** cleaner boundaries, reliable APIs, and scalable architecture.
-- [ ] **Agentic workflows:** orchestration, observability, retries, and human approval.
-- [ ] **Application security:** authorized testing, threat modeling, and secure-by-default backend patterns.
-- [ ] **IoT systems:** sensor data collection and reliable cloud connectivity.
-
-## 🧠 THE MINDSET
-
-<table>
-  <tr>
-    <td align="center" width="33%"><h3>Build useful things.</h3><sub>Start from a real problem.</sub></td>
-    <td align="center" width="33%"><h3>Learn deeply.</h3><sub>Understand the system, not only the UI.</sub></td>
-    <td align="center" width="33%"><h3>Secure what you build.</h3><sub>Ship with evidence and responsibility.</sub></td>
-  </tr>
-</table>
-
-<p align="center">
-  <b>Build with intent. Ship with evidence. Secure by design.</b><br />
-  <sub>Thanks for visiting. Explore a repository, review the architecture, and share an idea.</sub>
-</p>
+</details>

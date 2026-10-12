@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="40" viewBox="0 0 746 40" role="img" aria-labelledby="title"><title id="title">Featured Projects</title><defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1117"/><stop offset="1" stop-color="#0d151b"/></linearGradient>
+<linearGradient id="card" x2="1" y2="1"><stop stop-color="#111921"/><stop offset="1" stop-color="#0d141a"/></linearGradient>
+<linearGradient id="purple" x2="1" y2="1"><stop stop-color="#8748ff"/><stop offset=".5" stop-color="#5921eb"/><stop offset="1" stop-color="#3222b9"/></linearGradient>
+<linearGradient id="blue" x2="1" y2="1"><stop stop-color="#079dff"/><stop offset="1" stop-color="#0045b9"/></linearGradient>
+<linearGradient id="green" x2="1" y2="1"><stop stop-color="#00ca80"/><stop offset="1" stop-color="#006447"/></linearGradient>
+<linearGradient id="gray" x2="1" y2="1"><stop stop-color="#57616e"/><stop offset=".5" stop-color="#202733"/><stop offset="1" stop-color="#384451"/></linearGradient>
+<linearGradient id="quote" x2="1" y2="1"><stop stop-color="#131c2e"/><stop offset="1" stop-color="#25203e"/></linearGradient>
+</defs><g font-family="Segoe UI, Arial, sans-serif"><rect width="746" height="40" fill="url(#bg)"/><text x="3" y="28" font-size="21" fill="#61baff" font-weight="700" >📌</text><text x="34" y="28" font-size="19" fill="#f0f3f6" font-weight="650" >Featured Projects</text><text x="744" y="26" font-size="12" fill="#2bb2ff" font-weight="400" text-anchor="end">View all repositories →</text></g></svg>
