@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/hardiksedani?tab=repositories"><img src="./assets/neon/button-portfolio.svg" width="116" height="42" alt="Portfolio — explore my repositories" /></a>&nbsp;
+  <a href="https://hardikportfolio-black.vercel.app/"><img src="./assets/neon/button-portfolio.svg" width="116" height="42" alt="Portfolio — explore my repositories" /></a>&nbsp;
   <a href="https://in.linkedin.com/in/hardik-sedani-063a90355"><img src="./assets/neon/button-linkedin.svg" width="116" height="42" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:hardiksedani2610@gmail.com"><img src="./assets/neon/button-email.svg" width="100" height="42" alt="Email Hardik" /></a>&nbsp;
   <a href="#featured-projects"><img src="./assets/neon/button-projects.svg" width="114" height="42" alt="Featured projects" /></a>
@@ -104,3 +104,5 @@ Project thumbnails are decorative artwork; follow the links to see the actual ap
 [LinkedIn](https://in.linkedin.com/in/hardik-sedani-063a90355) · [Email](mailto:hardiksedani2610@gmail.com) · [All repositories](https://github.com/hardiksedani?tab=repositories)
 
 </details>
+
+
